@@ -1,69 +1,54 @@
-<h1 align="center">
-  Discover
-</h1>
+<div align="center">
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=rocketseat" alt="Logo da Rocketseat" />
+  <h3 align="center">Discover - Rocketseat</h3>
+</div>
 
-<p align="center">
-  <a href="#">Português</a> · <a href="/docs/README_EN.md">English</a>
-</p>
+# 🔍Visão Geral
+  Esta formação oferece 1 trilha voltada para desenvolvimento web, cobrindo desde os fundamentos iniciais de HTML, CSS e JavaScript até tecnologias mais avançadas, como Git, GitHub e Node.js. O projeto desenvolvido ajuda a formar uma base sólida e eficiente em projetos web, criando aplicações modernas, escaláveis e com boas práticas de desenvolvimento, tanto no front-end quanto no back-end.
 
-# 🔍Índice <!-- omit in toc -->
-- [Tecnologias](#tecnologias)
-- [Visão Geral](#visão-geral)
-- [Guia de Instalação](#guia-de-instalação)
-- [Recursos Adicionais](#recursos-adicionais)
-  - [Design](#design)
-  - [Ferramentas](#ferramentas)
-  - [Linguagens e Pacotes](#linguagens-e-pacotes)
+# 📚Conteúdo Abordado
+  * **Introdução**
+    * **Primeiros Passos**
+    * **Aprendendo a Aprender**
+  * **Começado o Projeto**
+    * **Iniciando o HTML e CSS**
+    * **Avançando o HTML e CSS**
+  * **Finalizando o Projeto**
+    * **JavaScript**
+    * **Git e GitHub**
+  * **Projeto Final**
+  * **Seu Próximo Passo na Programação**
 
-# 💻Tecnologias
-  <div align="center">
-    <img src="https://iconsverse.vercel.app/icons?i=html,css,js">
-  </div>
+<div align="center">
+  <h3>💻Tecnologias Aprendidas</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github&theme=dark" />
+</div>
 
-# 📝Visão Geral
-O projeto Discover é uma aplicação web desenvolvida com HTML, CSS e JavaScript, funcionando como uma plataforma de links personalizada (semelhante ao Linktree). A interface é moderna e responsiva, permitindo que os usuários organizem e compartilhem vários links em um único lugar, facilitando o acesso a perfis de redes sociais, sites pessoais, portfólios e outros recursos importantes.
-
-# 📖Guia de Instalação
-Siga as etapas abaixo para configurar e executar o Pass.in em seu ambiente local, o processo pode ser mais fácil com uma ferramenta de edição de texto avançada como o Visual Studio Code:
-
-1. Usando o git bash clone este repositório:
-   ```
-   git clone https://github.com/Paulo-Alvares/Discover.git
-   ```
-   
-2. Navegue até o diretório do projeto:
-   ```
-   cd Discover
-   ```
-
-3. Instale as dependências:
-   ``` 
-   npm i
-   ```
-
-4. Inicie o servidor de desenvolvimento:
-   ``` 
-   npm start
-   ```
-
-5. Acesse o Discover em seu navegador:
-   ```
-   http://localhost:3333
-   ```
+# 🏅Certificados
+<img src="assets/certificado.jpg" alt="Certificado">
 
 # 🔗Recursos Adicionais
-### 🎨Design
-  - <a href="https://www.figma.com/design/pbHGOBCExCli4pazRNqlsG/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&node-type=canvas&t=ozMSLBbvt4y9diQq-0">Protótipo</a>
-
 ### 🔧Ferramentas
   - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-  - <a href="https://www.figma.com/">Figma</a>
 
 ### 📦Linguagens e Pacotes
-  - <a href="https://nodejs.org/en/download/package-manager">Node</a>
+  - <a href="https://nodejs.org/en/download/package-manager">Node.Js</a>
+  - <a href="https://git-scm.com/downloads">Git</a>
+
+### 📖Guias de Referência
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+  - <a href="https://nodejs.org/docs/latest/api/">Node.Js</a>
+  - <a href="https://git-scm.com/doc">Git</a>
+  - <a href="https://docs.github.com">GitHub</a>
+
+### 📎Curso
+  - <a href="https://app.rocketseat.com.br/journey/discover/contents">Discover</a>
 
 # 📬Contato
 <div align="center"> 
+  <a href="https://github.com/Paulo-Alvares"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href = "mailto:pauloalvares66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paulo-alvares/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://www.instagram.com/paulo_10111/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
